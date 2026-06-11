@@ -1,0 +1,7 @@
+[2026-06-11T04:45:31.781Z] Starting dream total page test
+[2026-06-11T04:45:31.782Z] Test: Verify statistics consistency between pages
+[2026-06-11T04:45:33.316Z] Statistics Comparison:
+[2026-06-11T04:45:33.317Z] Total Page - Good: 6, Bad: 4, Total: 10
+[2026-06-11T04:45:33.317Z] Diary Page - Good: 6, Bad: 4, Total: 10
+[2026-06-11T04:45:33.325Z] ✓ Statistics are consistent across pages
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\statistics_consistency_verified-2026-06-11T04-45-33-326Z.png

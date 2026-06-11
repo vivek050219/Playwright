@@ -1,0 +1,8 @@
+[2026-06-11T04:45:30.770Z] Starting dream total page test
+[2026-06-11T04:45:30.772Z] Test: Verify expected recurring dreams are present
+[2026-06-11T04:45:31.657Z] Recurring dreams found: 2
+[2026-06-11T04:45:31.657Z] Dream names:
+[2026-06-11T04:45:31.657Z]   - Flying over mountains
+[2026-06-11T04:45:31.657Z]   - Lost in maze
+[2026-06-11T04:45:31.660Z] ✓ All expected recurring dreams verified
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\expected_recurring_dreams_verified-2026-06-11T04-45-31-661Z.png

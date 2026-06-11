@@ -1,0 +1,6 @@
+[2026-06-11T04:45:28.819Z] Starting dream total page test
+[2026-06-11T04:45:28.820Z] Test: Verify correct Recurring Dreams count
+[2026-06-11T04:45:29.388Z] Recurring dreams count: 2
+[2026-06-11T04:45:29.388Z] Expected: 2
+[2026-06-11T04:45:29.390Z] ✓ Recurring dreams count verified (2)
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\recurring_dreams_count_verified-2026-06-11T04-45-29-390Z.png

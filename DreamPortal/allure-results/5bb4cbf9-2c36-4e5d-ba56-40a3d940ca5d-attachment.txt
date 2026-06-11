@@ -1,0 +1,5 @@
+[2026-06-11T04:45:27.933Z] Starting dream diary page test
+[2026-06-11T04:45:27.938Z] Test: Verify there are exactly 10 dream entries
+[2026-06-11T04:45:28.655Z] Dream entries found: 10
+[2026-06-11T04:45:28.667Z] ✓ Exactly 10 dream entries verified
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\dream_diary_10_entries-2026-06-11T04-45-28-668Z.png

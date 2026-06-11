@@ -1,0 +1,9 @@
+[2026-06-11T04:45:28.058Z] Starting dream diary page test
+[2026-06-11T04:45:28.063Z] Test: Verify each row has all three columns filled
+[2026-06-11T04:45:29.652Z] All columns filled validation: true
+[2026-06-11T04:45:29.652Z] Sample dream entries:
+[2026-06-11T04:45:29.652Z]   1. Name: "Flying over mountains", Days Ago: "1 day ago", Type: "Good"
+[2026-06-11T04:45:29.653Z]   2. Name: "Lost in maze", Days Ago: "2 days ago", Type: "Bad"
+[2026-06-11T04:45:29.653Z]   3. Name: "Flying over mountains", Days Ago: "3 days ago", Type: "Good"
+[2026-06-11T04:45:29.665Z] ✓ All rows have complete data
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\dream_rows_complete-2026-06-11T04-45-29-666Z.png

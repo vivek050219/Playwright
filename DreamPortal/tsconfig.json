@@ -1,0 +1,84 @@
+/**
+ * TypeScript Configuration for Dream Portal Tests
+ * 
+ * This configuration file sets up TypeScript compiler options for the project.
+ * It enables strict type checking and modern JavaScript features.
+ */
+{
+  "compilerOptions": {
+    /**
+     * Target and Module Configuration
+     */
+    "target": "ESNext",
+    "module": "commonjs",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+
+    /**
+     * Output Configuration
+     */
+    "outDir": "./dist",
+    "rootDir": "./",
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+
+    /**
+     * Strict Type Checking
+     */
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+
+    /**
+     * Additional Type Checking Options
+     */
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+
+    /**
+     * Module Resolution
+     */
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "@pages/*": ["tests/pages/*"],
+      "@specs/*": ["tests/specs/*"],
+      "@utils/*": ["tests/utils/*"]
+    },
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+
+    /**
+     * Emit and Downlevel Options
+     */
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+
+    /**
+     * Advanced Options
+     */
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+
+  /**
+   * Files and Includes Configuration
+   */
+  "include": [
+    "tests/**/*.ts"
+  ],
+
+  "exclude": [
+    "node_modules",
+    "dist",
+    "**/*.spec.ts.snap"
+  ]
+}

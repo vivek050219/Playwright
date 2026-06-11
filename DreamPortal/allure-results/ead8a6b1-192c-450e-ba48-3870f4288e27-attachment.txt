@@ -1,0 +1,3 @@
+[2026-06-11T04:45:32.103Z] Starting home page test
+[2026-06-11T04:45:32.104Z] Test: Verify loading animation appears
+Loading animation visibility: false

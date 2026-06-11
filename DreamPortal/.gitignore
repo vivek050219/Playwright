@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build and Distribution
+dist/
+build/
+*.tsbuildinfo
+
+# Test Results
+test-results/
+playwright-report/
+coverage/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.log
+
+# Playwright
+.auth/
+user-data-dir/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# Screenshots and Videos
+screenshots/
+videos/
+
+# Trace Files
+traces/
+*.zip

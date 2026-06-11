@@ -1,0 +1,10 @@
+[2026-06-11T04:45:35.040Z] Starting home page test
+[2026-06-11T04:45:35.041Z] Test: Verify clicking "My Dreams" opens new tabs
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\before_click_my_dreams-2026-06-11T04-45-37-500Z.png
+[2026-06-11T04:45:37.872Z] Clicking "My Dreams" button to open new tabs
+[2026-06-11T04:45:40.535Z] ✓ 2 new tab(s) opened
+[2026-06-11T04:45:40.541Z] New tab URL: https://arjitnigam.github.io/myDreams/dreams-diary.html
+[2026-06-11T04:45:40.541Z] ✓ dreams-diary.html tab opened
+[2026-06-11T04:45:40.803Z] New tab URL: https://arjitnigam.github.io/myDreams/dreams-diary.html
+[2026-06-11T04:45:40.803Z] ✓ dreams-diary.html tab opened
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\after_click_my_dreams-2026-06-11T04-45-40-808Z.png

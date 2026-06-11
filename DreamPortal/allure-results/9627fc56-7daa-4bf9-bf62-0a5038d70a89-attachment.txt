@@ -1,0 +1,6 @@
+[2026-06-11T04:45:27.028Z] Starting dream total page test
+[2026-06-11T04:45:27.029Z] Test: Verify correct number of Bad Dreams
+[2026-06-11T04:45:27.591Z] Bad dreams count: 4
+[2026-06-11T04:45:27.591Z] Expected: 4
+[2026-06-11T04:45:27.594Z] ✓ Bad dreams count verified (4)
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\bad_dreams_count_verified-2026-06-11T04-45-27-594Z.png

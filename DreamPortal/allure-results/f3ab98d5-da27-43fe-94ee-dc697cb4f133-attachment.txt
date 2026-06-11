@@ -1,0 +1,20 @@
+[2026-06-11T04:45:25.147Z] Starting dream diary page test
+[2026-06-11T04:45:25.149Z] Test: Verify dream type distribution
+[2026-06-11T04:45:25.873Z] Good dreams: 6
+[2026-06-11T04:45:25.873Z] Bad dreams: 4
+[2026-06-11T04:45:25.873Z] Expected: Good dreams = 6, Bad dreams = 4
+[2026-06-11T04:45:25.873Z] Actual: Good dreams = 6, Bad dreams = 4
+[2026-06-11T04:45:25.873Z] Good dreams:
+[2026-06-11T04:45:25.873Z]   - Flying over mountains
+[2026-06-11T04:45:25.873Z]   - Flying over mountains
+[2026-06-11T04:45:25.873Z]   - Winning lottery
+[2026-06-11T04:45:25.873Z]   - Swimming with dolphins
+[2026-06-11T04:45:25.873Z]   - Flying over mountains
+[2026-06-11T04:45:25.873Z]   - Time travel adventure
+[2026-06-11T04:45:25.873Z] Bad dreams:
+[2026-06-11T04:45:25.873Z]   - Lost in maze
+[2026-06-11T04:45:25.873Z]   - Being late to exam
+[2026-06-11T04:45:25.873Z]   - Lost in maze
+[2026-06-11T04:45:25.873Z]   - Monster chase
+[2026-06-11T04:45:25.875Z] ✓ Dream type distribution verified
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\dream_distribution_verified-2026-06-11T04-45-25-876Z.png

@@ -1,0 +1,6 @@
+[2026-06-11T04:45:26.823Z] Starting dream total page test
+[2026-06-11T04:45:26.824Z] Test: Verify correct number of Good Dreams
+[2026-06-11T04:45:27.538Z] Good dreams count: 6
+[2026-06-11T04:45:27.538Z] Expected: 6
+[2026-06-11T04:45:27.541Z] ✓ Good dreams count verified (6)
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\good_dreams_count_verified-2026-06-11T04-45-27-542Z.png

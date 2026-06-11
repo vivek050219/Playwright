@@ -1,0 +1,5 @@
+[2026-06-11T04:45:35.591Z] Starting dream total page test
+[2026-06-11T04:45:35.592Z] Test: Verify "Flying over mountains" is marked as recurring
+[2026-06-11T04:45:36.523Z] "Flying over mountains" appears 3 time(s) in dreams diary
+[2026-06-11T04:45:36.527Z] ✓ "Flying over mountains" verified as recurring
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\flying_mountains_recurring-2026-06-11T04-45-36-528Z.png

@@ -1,0 +1,5 @@
+[2026-06-11T04:45:30.592Z] Starting dream total page test
+[2026-06-11T04:45:30.592Z] Test: Verify "Lost in maze" is marked as recurring
+[2026-06-11T04:45:31.389Z] "Lost in maze" appears 2 time(s) in dreams diary
+[2026-06-11T04:45:31.391Z] ✓ "Lost in maze" verified as recurring
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\lost_maze_recurring-2026-06-11T04-45-31-392Z.png

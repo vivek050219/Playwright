@@ -1,0 +1,11 @@
+[2026-06-11T04:45:30.461Z] Starting dream total page test
+[2026-06-11T04:45:30.463Z] Test: Verify all dream statistics
+[2026-06-11T04:45:30.942Z] Dream Statistics:
+[2026-06-11T04:45:30.943Z] {
+  "goodDreams": 6,
+  "badDreams": 4,
+  "totalDreams": 10,
+  "recurringDreams": 2
+}
+[2026-06-11T04:45:30.953Z] ✓ All statistics verified successfully
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\all_statistics_verified-2026-06-11T04-45-30-954Z.png
