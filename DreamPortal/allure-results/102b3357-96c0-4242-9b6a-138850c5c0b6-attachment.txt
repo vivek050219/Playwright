@@ -1,0 +1,5 @@
+[2026-06-11T04:45:32.439Z] Starting dream diary page test
+[2026-06-11T04:45:32.443Z] Test: Verify the dreams diary page loads successfully
+[2026-06-11T04:45:32.902Z] ✓ Page loaded. Title: Dreams Diary
+[2026-06-11T04:45:32.968Z] ✓ Dream table found on page
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\dream_diary_page_loaded-2026-06-11T04-45-32-968Z.png

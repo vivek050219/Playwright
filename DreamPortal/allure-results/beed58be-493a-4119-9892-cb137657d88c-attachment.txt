@@ -1,0 +1,19 @@
+[2026-06-11T04:45:22.797Z] Starting dream diary page test
+[2026-06-11T04:45:22.801Z] Test: Verify all dream types are either "Good" or "Bad"
+[2026-06-11T04:45:23.838Z] Dream entries validation: true
+[2026-06-11T04:45:23.838Z] Dream types found:
+[
+  "Good",
+  "Bad",
+  "Good",
+  "Good",
+  "Bad",
+  "Bad",
+  "Good",
+  "Good",
+  "Good",
+  "Bad"
+]
+[2026-06-11T04:45:23.839Z] Good dreams: 6, Bad dreams: 4
+[2026-06-11T04:45:23.846Z] ✓ All dream types are valid (Good or Bad)
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\dream_types_validated-2026-06-11T04-45-23-847Z.png

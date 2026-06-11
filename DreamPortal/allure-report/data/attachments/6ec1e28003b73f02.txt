@@ -1,0 +1,4 @@
+[2026-06-11T04:45:31.156Z] Starting dream total page test
+[2026-06-11T04:45:31.158Z] Test: [BONUS] AI-Based Dream Classification Validation
+[2026-06-11T04:45:31.159Z] ⚠ OpenAI API not configured. Skipping AI validation test.
+[2026-06-11T04:45:31.159Z] To enable: Set OPENAI_API_KEY environment variable

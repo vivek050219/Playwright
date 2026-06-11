@@ -1,0 +1,2 @@
+WARNING: OpenAI API key not found. AI validation will be skipped.
+Set OPENAI_API_KEY environment variable to enable AI validation.

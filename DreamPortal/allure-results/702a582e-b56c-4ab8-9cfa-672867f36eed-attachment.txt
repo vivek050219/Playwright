@@ -1,0 +1,21 @@
+[2026-06-11T04:45:28.024Z] Starting dream diary page test
+[2026-06-11T04:45:28.029Z] Test: Verify specific recurring dream candidates
+[2026-06-11T04:45:29.122Z] Dream names found:
+[2026-06-11T04:45:29.123Z] [
+  "Flying over mountains",
+  "Lost in maze",
+  "Flying over mountains",
+  "Winning lottery",
+  "Being late to exam",
+  "Lost in maze",
+  "Swimming with dolphins",
+  "Flying over mountains",
+  "Time travel adventure",
+  "Monster chase"
+]
+[2026-06-11T04:45:29.123Z] Contains "Flying over mountains": true
+[2026-06-11T04:45:29.123Z] Contains "Lost in maze": true
+[2026-06-11T04:45:29.123Z] ✓ Found: "Flying over mountains"
+[2026-06-11T04:45:29.123Z] ✓ Found: "Lost in maze"
+[2026-06-11T04:45:29.134Z] ✓ Dream names extracted successfully
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\dream_names_verified-2026-06-11T04-45-29-135Z.png

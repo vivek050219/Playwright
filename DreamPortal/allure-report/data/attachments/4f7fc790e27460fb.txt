@@ -1,0 +1,4 @@
+[2026-06-11T04:45:32.715Z] Starting home page test
+[2026-06-11T04:45:32.716Z] Test: Verify loading animation disappears after ~3 seconds
+[2026-06-11T04:45:33.263Z] ✓ Loading animation disappeared
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\loading_animation_disappeared-2026-06-11T04-45-33-264Z.png

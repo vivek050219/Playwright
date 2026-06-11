@@ -1,0 +1,60 @@
+{
+  "name": "dream-portal-tests",
+  "version": "1.0.0",
+  "description": "Automated Testing Suite for Dream Portal using Playwright and TypeScript with AI-based validations",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:ui": "playwright test --ui",
+    "test:chromium": "playwright test --project=chromium",
+    "test:firefox": "playwright test --project=firefox",
+    "test:webkit": "playwright test --project=webkit",
+    "test:mobile": "playwright test --project='Mobile Chrome'",
+    "test:single": "playwright test -g",
+    "report": "playwright show-report",
+    "allure:install": "allure --version",
+    "allure:report": "allure generate allure-results --clean -o allure-report",
+    "allure:open": "allure open allure-report",
+    "allure:full": "allure generate allure-results --clean -o allure-report && allure open allure-report",
+    "install-browsers": "playwright install",
+    "format": "prettier --write \"tests/**/*.ts\"",
+    "lint": "eslint tests/**/*.ts",
+    "clean": "rm -rf dist playwright-report test-results allure-results allure-report"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "qa",
+    "dream-portal",
+    "typescript",
+    "page-object-model",
+    "openai",
+    "ai-validation"
+  ],
+  "author": "QA Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5",
+    "allure-commandline": "^2.42.1",
+    "allure-playwright": "^3.10.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/dream-portal-tests"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/dream-portal-tests/issues"
+  }
+}

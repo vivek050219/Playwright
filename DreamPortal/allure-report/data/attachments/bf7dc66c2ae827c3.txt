@@ -1,0 +1,58 @@
+[2026-06-11T04:45:22.820Z] Starting dream diary page test
+[2026-06-11T04:45:22.824Z] Test: Extract and validate all dream entries
+[2026-06-11T04:45:24.308Z] Total dreams extracted: 10
+[2026-06-11T04:45:24.309Z] Full dream entries:
+[2026-06-11T04:45:24.309Z] [
+  {
+    "name": "Flying over mountains",
+    "daysAgo": "1 day ago",
+    "type": "Good"
+  },
+  {
+    "name": "Lost in maze",
+    "daysAgo": "2 days ago",
+    "type": "Bad"
+  },
+  {
+    "name": "Flying over mountains",
+    "daysAgo": "3 days ago",
+    "type": "Good"
+  },
+  {
+    "name": "Winning lottery",
+    "daysAgo": "4 days ago",
+    "type": "Good"
+  },
+  {
+    "name": "Being late to exam",
+    "daysAgo": "5 days ago",
+    "type": "Bad"
+  },
+  {
+    "name": "Lost in maze",
+    "daysAgo": "6 days ago",
+    "type": "Bad"
+  },
+  {
+    "name": "Swimming with dolphins",
+    "daysAgo": "7 days ago",
+    "type": "Good"
+  },
+  {
+    "name": "Flying over mountains",
+    "daysAgo": "8 days ago",
+    "type": "Good"
+  },
+  {
+    "name": "Time travel adventure",
+    "daysAgo": "9 days ago",
+    "type": "Good"
+  },
+  {
+    "name": "Monster chase",
+    "daysAgo": "10 days ago",
+    "type": "Bad"
+  }
+]
+[2026-06-11T04:45:24.373Z] ✓ All dream entries extracted and validated
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\all_dream_entries_extracted-2026-06-11T04-45-24-373Z.png

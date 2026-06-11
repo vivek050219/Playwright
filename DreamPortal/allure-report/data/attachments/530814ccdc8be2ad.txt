@@ -1,0 +1,3 @@
+[2026-06-11T04:45:34.968Z] Starting home page test
+[2026-06-11T04:45:34.970Z] Test: Verify "My Dreams" button is visible and clickable
+"My Dreams" button visibility: false

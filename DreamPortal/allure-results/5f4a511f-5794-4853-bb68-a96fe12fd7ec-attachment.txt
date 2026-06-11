@@ -1,0 +1,6 @@
+[2026-06-11T04:45:33.033Z] Starting home page test
+[2026-06-11T04:45:33.034Z] Test: Verify main content becomes visible
+[2026-06-11T04:45:35.127Z] Main heading visible: true
+[2026-06-11T04:45:35.127Z] My Dreams button visible: false
+[2026-06-11T04:45:35.131Z] ✓ Main content is visible
+Screenshot saved: D:\Playwright\DreamPortal\test-results\screenshots\main_content_visible-2026-06-11T04-45-35-131Z.png

@@ -1,0 +1,4 @@
+[2026-06-11T04:45:35.370Z] Starting home page test
+[2026-06-11T04:45:35.371Z] Test: Verify page title and basic structure
+[2026-06-11T04:45:35.787Z] ✓ Page title: Dream Portal
+[2026-06-11T04:45:35.829Z] ✓ Page structure is valid
